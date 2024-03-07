@@ -1,0 +1,190 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+/* nav bar  */
+
+.nav {
+  width: 100%;
+  padding: 20px;
+}
+.icon {
+  /* border: 1px black solid ; */
+  margin-left: 20px;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+input[type="search"] {
+  width: 750px;
+  height: 45px;
+  background-color: #eaf1fb;
+  padding-left: 20px;
+  margin-left: 120px;
+  border-radius: 35px;
+  color: gray;
+  border: rgb(205, 235, 235) 1px solid;
+}
+input[type="search"]:focus {
+  background-color: white;
+}
+.icon {
+  margin-left: 20px;
+}
+
+/* LEFT SIDE  */
+.col-lg-3 {
+  border: 1px solid black;
+  height: 550px;
+  border: none;
+}
+.col-lg-9 {
+  border: 1px solid black;
+  height: 550px;
+}
+
+input[type="submit"] {
+  width: 150px;
+  height: 60px;
+  margin-left: 10px;
+  border-radius: 20px;
+  font-weight: 600;
+  background-color: #c2e7ff;
+  border: #c2e7ff 1px solid;
+  border: 1px solid #aad1eb;
+}
+
+input[type="submit"]:hover {
+  box-shadow: 2px 2px 5px rgb(161, 161, 161);
+}
+
+.left-main {
+  /* border: 1px solid black; */
+  /* height: 100px; */
+  margin-top: 20px;
+}
+.left {
+  /* border: 1px solid black; */
+  border-radius: 0 15px 15px 0;
+  height: 35px;
+}
+.left:hover {
+  background-color: #e0e0e0;
+}
+.left:focus {
+  background-color: turquoise;
+}
+
+/* icon  */
+
+
+
+
+.icon-hover:hover{
+ color: rgb(248, 94, 94);
+}
+
+
+.fa-inbox,
+.fa-star,
+.fa-clock,
+.fa-upload,
+.fa-file,
+.fa-angle-down {
+  margin: 15px;
+  padding-bottom: 5px;
+}
+.fa-plus {
+  margin-left: 170px;
+  font-size: 15px;
+}
+
+.label {
+  margin: 15px;
+  font-weight: 600;
+  /* border: 1px solid black; */
+  font-size: 20px;
+}
+
+/* RIGHT SIDE  */
+.nav-2 {
+  /* border: 1px solid black; */
+  width: 100%;
+  height: 50px;
+
+  position: sticky;
+  top: 1px;
+  background-color: white;
+}
+.col-lg-9 {
+  overflow: scroll;
+  border: none;
+}
+/* icon  */
+
+.fa-square {
+  font-size: 30px;
+  /* border: 1px solid black; */
+}
+
+.fa-arrows-rotate {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.fa-angle-left {
+  margin-left: 650px;
+}
+.fa-angle-right {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* 3-box */
+
+.coll {
+  /* border: black 1px solid; */
+  height: 70px;
+}
+.coll:hover {
+  background-color: rgb(231, 235, 236);
+}
+.coll:active{
+  border-bottom: rgb(52, 52, 255) 2px solid;
+
+}
+.pri {
+  padding: 10px;
+  border: none;
+  border-bottom: rgb(52, 52, 255) 2px solid;
+}
+.pro {
+  padding: 20px;
+  border: none;
+}
+
+.fa-tag,
+.fa-users-line {
+  margin-right: 10px;
+}
+.massage {
+  /* border: black 1px solid; */
+  height: 40px;
+}
+.massage:hover {
+  border: 1px solid rgb(212, 207, 207);
+  box-shadow: 2px 2px 5px gray;
+}
+
+.main-col {
+  height: 40px;
+  /* border: black 1px solid; */
+  border: none;
+}
+
+              
+
+                   
+
+        
+
